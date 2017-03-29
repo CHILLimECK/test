@@ -1,0 +1,16 @@
+INDEX VERSION 1.129+/home/stud/jc-161117/git/.metadata/.plugins/org.eclipse.jdt.core
+3678871802.index
+1045709165.index
+3460865178.index
+1718387788.index
+1059672109.index
+69329635.index
+1375957603.index
+3333007873.index
+2089348824.index
+536234018.index
+3494082097.index
+2967246156.index
+1127833330.index
+876563129.index
+3076385513.index
